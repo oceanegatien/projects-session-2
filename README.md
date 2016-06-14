@@ -1,5 +1,4 @@
 # Projet perso de la Promo 4 - Montreuil
-___
 
  * [showroomprivée](./showroom_privee_n1.md)
  * [app météo](./app_meteo_n2.md)
